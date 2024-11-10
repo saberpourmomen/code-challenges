@@ -1,13 +1,15 @@
 Question :
 
-// Construct the tree:
-//       1
-//      / \
-//     2   3
-//    / \ / \
-//   4  5 6  7
-//
-// Expected output: [[4], [2], [1, 5, 6], [3], [7]]
+ Construct the tree:
+ 
+       1
+      / \
+     2   3
+    / \ / \
+    4  5 6  7
+
+ Expected output: [[4], [2], [1, 5, 6], [3], [7]]
+ 
 ------------------------------------------------------------------------
 Here's how you can implement vertical order traversal of a binary tree in Java, using Streams to help with sorting and processing the map entries.
 
