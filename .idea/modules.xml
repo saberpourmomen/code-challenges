@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/code-challenges.iml" filepath="$PROJECT_DIR$/code-challenges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/queen-check/queen-check.iml" filepath="$PROJECT_DIR$/queen-check/queen-check.iml" />
       <module fileurl="file://$PROJECT_DIR$/vertical-binary-tree/vertical-binary-tree.iml" filepath="$PROJECT_DIR$/vertical-binary-tree/vertical-binary-tree.iml" />
     </modules>
   </component>
